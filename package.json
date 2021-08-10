@@ -16,5 +16,8 @@
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack server --port 8080"
+  },
+  "dependencies": {
+    "pixi.js": "^6.1.1"
   }
 }

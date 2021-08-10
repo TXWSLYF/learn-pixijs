@@ -7,6 +7,196 @@
   resolved "http://192.168.14.11:8888/@discoveryjs%2fjson-ext/-/json-ext-0.5.3.tgz#90420f9f9c6d3987f176a19a7d8e764271a2f55d"
   integrity sha1-kEIPn5xtOYfxdqGafY52QnGi9V0=
 
+"@pixi/accessibility@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2faccessibility/-/accessibility-6.1.1.tgz#e447fd8d014d5556c01d4895715d600a2d500afb"
+  integrity sha1-5Ef9jQFNVVbAHUiVcV1gCi1QCvs=
+
+"@pixi/app@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fapp/-/app-6.1.1.tgz#6be3c99c53a652f5e8cba53e43cd5d91d9de74eb"
+  integrity sha1-a+PJnFOmUvXoy6U+Q81dkdnedOs=
+
+"@pixi/compressed-textures@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fcompressed-textures/-/compressed-textures-6.1.1.tgz#ae325d50543620ecf878b4490dc555532b3b3d04"
+  integrity sha1-rjJdUFQ2IOz4eLRJDcVVUys7PQQ=
+
+"@pixi/constants@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fconstants/-/constants-6.1.1.tgz#53e7b709b6bb3a07099a9d9906be6449858e9b7b"
+  integrity sha1-U+e3Cba7OgcJmp2ZBr5kSYWOm3s=
+
+"@pixi/core@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fcore/-/core-6.1.1.tgz#953768ab04f816145e72a331dea0d2a52870bfc3"
+  integrity sha1-lTdoqwT4FhRecqMx3qDSpShwv8M=
+
+"@pixi/display@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fdisplay/-/display-6.1.1.tgz#b894c8d34f40c3c1662f5b4a3513d761537aade3"
+  integrity sha1-uJTI009Aw8FmL1tKNRPXYVN6reM=
+
+"@pixi/extract@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fextract/-/extract-6.1.1.tgz#9072d1e985b44e855840951936a8cae28d590212"
+  integrity sha1-kHLR6YW0ToVYQJUZNqjK4o1ZAhI=
+
+"@pixi/filter-alpha@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ffilter-alpha/-/filter-alpha-6.1.1.tgz#2b5d2ab3c54797ad4ad1914c9ec9d04671d3f842"
+  integrity sha1-K10qs8VHl61K0ZFMnsnQRnHT+EI=
+
+"@pixi/filter-blur@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ffilter-blur/-/filter-blur-6.1.1.tgz#bb600817e184b800f2b48d8c5ddb374d0632a16a"
+  integrity sha1-u2AIF+GEuADytI2MXds3TQYyoWo=
+
+"@pixi/filter-color-matrix@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ffilter-color-matrix/-/filter-color-matrix-6.1.1.tgz#07971795fb918f85c4729baa9a3b13dc00c3dcee"
+  integrity sha1-B5cXlfuRj4XEcpuqmjsT3ADD3O4=
+
+"@pixi/filter-displacement@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ffilter-displacement/-/filter-displacement-6.1.1.tgz#7303d224b3ba82dbed6a14353b1207fcd108c361"
+  integrity sha1-cwPSJLO6gtvtahQ1OxIH/NEIw2E=
+
+"@pixi/filter-fxaa@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ffilter-fxaa/-/filter-fxaa-6.1.1.tgz#eee449af8782e5dccc2100eabf7c00a1bd945474"
+  integrity sha1-7uRJr4eC5dzMIQDqv3wAob2UVHQ=
+
+"@pixi/filter-noise@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ffilter-noise/-/filter-noise-6.1.1.tgz#3c3df2a3bd7d485ca3ce701c4edb4538ca59dcb6"
+  integrity sha1-PD3yo719SFyjznAcTttFOMpZ3LY=
+
+"@pixi/graphics@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fgraphics/-/graphics-6.1.1.tgz#69478f8ec5b8501c31ea96783c40b0f6a96949ec"
+  integrity sha1-aUePjsW4UBwx6pZ4PECw9qlpSew=
+
+"@pixi/interaction@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2finteraction/-/interaction-6.1.1.tgz#322e1699fa62eacc3e6eb77e7ed661febb9a4431"
+  integrity sha1-Mi4Wmfpi6sw+brd+ftZh/ruaRDE=
+
+"@pixi/loaders@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2floaders/-/loaders-6.1.1.tgz#284a86e5bc4c0d3394102ced17853d819eecbebd"
+  integrity sha1-KEqG5bxMDTOUECztF4U9gZ7svr0=
+
+"@pixi/math@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fmath/-/math-6.1.1.tgz#ddf1be74adb183a3727ffbf7d87d53163517b7f0"
+  integrity sha1-3fG+dK2xg6Nyf/v32H1TFjUXt/A=
+
+"@pixi/mesh-extras@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fmesh-extras/-/mesh-extras-6.1.1.tgz#d698cd9b84f22425a7b3d8ad35ded3124922df7d"
+  integrity sha1-1pjNm4TyJCWns9itNd7TEkki330=
+
+"@pixi/mesh@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fmesh/-/mesh-6.1.1.tgz#bdba4d17b7d733b936832ffd62deaa12c9d3eb5c"
+  integrity sha1-vbpNF7fXM7k2gy/9Yt6qEsnT61w=
+
+"@pixi/mixin-cache-as-bitmap@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fmixin-cache-as-bitmap/-/mixin-cache-as-bitmap-6.1.1.tgz#abf69bc963bf7b1219afe26adfb00d12cc9cbe5d"
+  integrity sha1-q/abyWO/exIZr+Jq37ANEsycvl0=
+
+"@pixi/mixin-get-child-by-name@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fmixin-get-child-by-name/-/mixin-get-child-by-name-6.1.1.tgz#0eccf790f5e99819960b6504651ca12d8e9654e3"
+  integrity sha1-Dsz3kPXpmBmWC2UEZRyhLY6WVOM=
+
+"@pixi/mixin-get-global-position@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fmixin-get-global-position/-/mixin-get-global-position-6.1.1.tgz#f0e916047665158d0cdacfe133a4b23d2120f116"
+  integrity sha1-8OkWBHZlFY0M2s/hM6SyPSEg8RY=
+
+"@pixi/particle-container@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fparticle-container/-/particle-container-6.1.1.tgz#0d369dc56d647b2b507c013aa68a9be7d32ace98"
+  integrity sha1-DTadxW1keytQfAE6poqb59Mqzpg=
+
+"@pixi/polyfill@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fpolyfill/-/polyfill-6.1.1.tgz#53f47fcae9d9d8400b07398cd663f39c937b565d"
+  integrity sha1-U/R/yunZ2EALBzmM1mPznJN7Vl0=
+  dependencies:
+    object-assign "^4.1.1"
+    promise-polyfill "^8.2.0"
+
+"@pixi/prepare@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fprepare/-/prepare-6.1.1.tgz#83867f5c9f9620956d20594c029bd942168bb7b9"
+  integrity sha1-g4Z/XJ+WIJVtIFlMApvZQhaLt7k=
+
+"@pixi/runner@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2frunner/-/runner-6.1.1.tgz#51715929d8d26977b934f1304dd560d182691d9d"
+  integrity sha1-UXFZKdjSaXe5NPEwTdVg0YJpHZ0=
+
+"@pixi/settings@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fsettings/-/settings-6.1.1.tgz#1b736cdf2768fe0ab1a132637eaa8693a83dcdd1"
+  integrity sha1-G3Ns3ydo/gqxoTJjfqqGk6g9zdE=
+  dependencies:
+    ismobilejs "^1.1.0"
+
+"@pixi/sprite-animated@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fsprite-animated/-/sprite-animated-6.1.1.tgz#e4c7a0453fe7ea1f9ab641100d8cefb4cc0c4ebc"
+  integrity sha1-5MegRT/n6h+atkEQDYzvtMwMTrw=
+
+"@pixi/sprite-tiling@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fsprite-tiling/-/sprite-tiling-6.1.1.tgz#f3510e396bcdb1d987c27f1778142523bf9de4bb"
+  integrity sha1-81EOOWvNsdmHwn8XeBQlI7+d5Ls=
+
+"@pixi/sprite@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fsprite/-/sprite-6.1.1.tgz#7950094b8369e5d9c242c06ada4bfb449699402b"
+  integrity sha1-eVAJS4Np5dnCQsBq2kv7RJaZQCs=
+
+"@pixi/spritesheet@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fspritesheet/-/spritesheet-6.1.1.tgz#0a9379316f5386989b5eaf4ceb289226f78c8c59"
+  integrity sha1-CpN5MW9ThpibXq9M6yiSJveMjFk=
+
+"@pixi/text-bitmap@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ftext-bitmap/-/text-bitmap-6.1.1.tgz#eeab37be4b1a9adf0c65ca04d40d9fbe8d5760cc"
+  integrity sha1-7qs3vksamt8MZcoE1A2fvo1XYMw=
+
+"@pixi/text@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2ftext/-/text-6.1.1.tgz#da6f2f16eb4b922c67a30b6643d846a0960bd72a"
+  integrity sha1-2m8vFutLkixnowtmQ9hGoJYL1yo=
+
+"@pixi/ticker@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2fticker/-/ticker-6.1.1.tgz#1c4fac5676bcf83c96bb11a43be2d9d5610aebc6"
+  integrity sha1-HE+sVna8+DyWuxGkO+LZ1WEK68Y=
+
+"@pixi/utils@6.1.1":
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/@pixi%2futils/-/utils-6.1.1.tgz#6f331c7cca9d2ac0aa9f09d6d8dcee58243ac135"
+  integrity sha1-bzMcfMqdKsCqnwnW2NzuWCQ6wTU=
+  dependencies:
+    "@types/earcut" "^2.1.0"
+    earcut "^2.2.2"
+    eventemitter3 "^3.1.0"
+    url "^0.11.0"
+
+"@types/earcut@^2.1.0":
+  version "2.1.1"
+  resolved "http://192.168.14.11:8888/@types%2fearcut/-/earcut-2.1.1.tgz#573a0af609f17005c751f6f4ffec49cfe358ea51"
+  integrity sha512-w8oigUCDjElRHRRrMvn/spybSMyX8MTkKA5Dv+tS1IE/TgmNZPqUYtvYBXGY8cieSE66gm+szeK+bnbxC2xHTQ==
+
 "@types/eslint-scope@^3.7.0":
   version "3.7.1"
   resolved "http://192.168.14.11:8888/@types%2feslint-scope/-/eslint-scope-3.7.1.tgz#8dc390a7b4f9dd9f1284629efce982e41612116e"
@@ -926,6 +1116,11 @@ dot-case@^3.0.4:
     no-case "^3.0.4"
     tslib "^2.0.3"
 
+earcut@^2.2.2:
+  version "2.2.3"
+  resolved "http://192.168.14.11:8888/earcut/-/earcut-2.2.3.tgz#d44ced2ff5a18859568e327dd9c7d46b16f55cf4"
+  integrity sha1-1EztL/WhiFlWjjJ92cfUaxb1XPQ=
+
 ee-first@1.1.1:
   version "1.1.1"
   resolved "http://192.168.14.11:8888/ee-first/-/ee-first-1.1.1.tgz#590c61156b0ae2f4f0255732a158b266bc56b21d"
@@ -1022,6 +1217,11 @@ etag@~1.8.1:
   version "1.8.1"
   resolved "http://192.168.14.11:8888/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
+
+eventemitter3@^3.1.0:
+  version "3.1.2"
+  resolved "http://192.168.14.11:8888/eventemitter3/-/eventemitter3-3.1.2.tgz#2d3d48f9c346698fce83a85d7d664e98535df6e7"
+  integrity sha512-tvtQIeLVHjDkJYnzf2dgVMxfuSGJeM/7UCG17TT4EumTfNtF+0nebF/4zWOIkCreAbtNqhGEboB6BWrwqNaw4Q==
 
 eventemitter3@^4.0.0:
   version "4.0.7"
@@ -1786,6 +1986,11 @@ isexe@^2.0.0:
   resolved "http://192.168.14.11:8888/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=
 
+ismobilejs@^1.1.0:
+  version "1.1.1"
+  resolved "http://192.168.14.11:8888/ismobilejs/-/ismobilejs-1.1.1.tgz#c56ca0ae8e52b24ca0f22ba5ef3215a2ddbbaa0e"
+  integrity sha512-VaFW53yt8QO61k2WJui0dHf4SlL8lxBofUuUmwBo0ljPk0Drz2TiuDW4jo3wDcv41qy/SxrJ+VAzJ/qYqsmzRw==
+
 isobject@^2.0.0:
   version "2.1.0"
   resolved "http://192.168.14.11:8888/isobject/-/isobject-2.1.0.tgz#f065561096a3f1da2ef46272f815c840d87e0c89"
@@ -2142,7 +2347,7 @@ nth-check@^2.0.0:
   dependencies:
     boolbase "^1.0.0"
 
-object-assign@^4.0.1:
+object-assign@^4.0.1, object-assign@^4.1.1:
   version "4.1.1"
   resolved "http://192.168.14.11:8888/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
@@ -2376,6 +2581,47 @@ pinkie@^2.0.0:
   resolved "http://192.168.14.11:8888/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
+pixi.js@^6.1.1:
+  version "6.1.1"
+  resolved "http://192.168.14.11:8888/pixi.js/-/pixi.js-6.1.1.tgz#28bc7687821c221e8f543ae89bc890e7d294d023"
+  integrity sha1-KLx2h4IcIh6PVDrom8iQ59KU0CM=
+  dependencies:
+    "@pixi/accessibility" "6.1.1"
+    "@pixi/app" "6.1.1"
+    "@pixi/compressed-textures" "6.1.1"
+    "@pixi/constants" "6.1.1"
+    "@pixi/core" "6.1.1"
+    "@pixi/display" "6.1.1"
+    "@pixi/extract" "6.1.1"
+    "@pixi/filter-alpha" "6.1.1"
+    "@pixi/filter-blur" "6.1.1"
+    "@pixi/filter-color-matrix" "6.1.1"
+    "@pixi/filter-displacement" "6.1.1"
+    "@pixi/filter-fxaa" "6.1.1"
+    "@pixi/filter-noise" "6.1.1"
+    "@pixi/graphics" "6.1.1"
+    "@pixi/interaction" "6.1.1"
+    "@pixi/loaders" "6.1.1"
+    "@pixi/math" "6.1.1"
+    "@pixi/mesh" "6.1.1"
+    "@pixi/mesh-extras" "6.1.1"
+    "@pixi/mixin-cache-as-bitmap" "6.1.1"
+    "@pixi/mixin-get-child-by-name" "6.1.1"
+    "@pixi/mixin-get-global-position" "6.1.1"
+    "@pixi/particle-container" "6.1.1"
+    "@pixi/polyfill" "6.1.1"
+    "@pixi/prepare" "6.1.1"
+    "@pixi/runner" "6.1.1"
+    "@pixi/settings" "6.1.1"
+    "@pixi/sprite" "6.1.1"
+    "@pixi/sprite-animated" "6.1.1"
+    "@pixi/sprite-tiling" "6.1.1"
+    "@pixi/spritesheet" "6.1.1"
+    "@pixi/text" "6.1.1"
+    "@pixi/text-bitmap" "6.1.1"
+    "@pixi/ticker" "6.1.1"
+    "@pixi/utils" "6.1.1"
+
 pkg-dir@^3.0.0:
   version "3.0.0"
   resolved "http://192.168.14.11:8888/pkg-dir/-/pkg-dir-3.0.0.tgz#2749020f239ed990881b1f71210d51eb6523bea3"
@@ -2416,6 +2662,11 @@ process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "http://192.168.14.11:8888/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
   integrity sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag==
+
+promise-polyfill@^8.2.0:
+  version "8.2.0"
+  resolved "http://192.168.14.11:8888/promise-polyfill/-/promise-polyfill-8.2.0.tgz#367394726da7561457aba2133c9ceefbd6267da0"
+  integrity sha1-NnOUcm2nVhRXq6ITPJzu+9YmfaA=
 
 proxy-addr@~2.0.5:
   version "2.0.7"
